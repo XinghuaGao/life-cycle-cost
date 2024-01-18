@@ -2,7 +2,7 @@
 
 A significant allocation of resources is dedicated to the construction and maintenance of buildings. To minimize the total cost of facility ownership, it is essential to prioritize the reduction of life-cycle costs (LCC) instead of solely focusing on the initial design and construction expenses. This research project has developed a framework for facility life-cycle cost analysis (LCCA) using machine learning, leveraging data obtained from Building Information Models (BIM) and the Internet of Things (IoT).
 
-This Ph.D. research study was conducted by [Dr. Ray Gao](http://www.raygaoai.com/), formerly known as Xinghua Gao, at the Georgia Institute of Technology.
+This Ph.D. research study was conducted by [Dr. Ray Gao](http://www.ray-gao.com/), formerly known as Xinghua Gao, at the Georgia Institute of Technology.
 
 - [Dr. Gao’s Ph.D. thesis](papers/2019_dissertation.pdf)
 - Published articles:
@@ -31,7 +31,7 @@ This repository serves as the index for the related research results and source 
 
 ## **Project Team and Contributors**
 
-[Dr. Ray Gao](http://www.raygaoai.com/)
+[Dr. Ray Gao](http://www.ray-gao.com/)
 
 [Dr. Pardis Pishdad-Bozorgi](https://bc.gatech.edu/people/pardis-pishdad-bozorgi)
 
